@@ -1,0 +1,5 @@
+model_or_baseline,MAE_kWh,RMSE_kWh,WMAPE_pct,improvement_vs_prev_day_pct
+Aletheon_LightGBM,11.92,17.09,3.57,23.39
+Previous_Day_Same_Hour,15.57,22.66,4.66,0.0
+Previous_Week_Same_Hour,14.79,21.22,4.43,4.94
+Historical_Average,10.48,15.05,3.14,32.62

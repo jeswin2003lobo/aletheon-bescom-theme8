@@ -1,0 +1,16 @@
+feeder_id_hash,locality,zone,peak_forecast_kwh,peak_load_pct,peak_time_ist,red_hours,amber_hours,effective_capacity_kw_for_risk,physical_feeder_capacity_kw,grid_risk_band,recommended_team,recommended_action
+FDR_001_HASH,Indiranagar,East Circle,894.1,97.18,2025-04-20 18:00:00,5,15,920.0,920.0,RED,O&M + Control Room,Immediate load shedding review required
+FDR_002_HASH,Domlur,East Circle,625.24,96.19,2025-04-19 18:00:00,5,17,650.0,650.0,RED,O&M + Control Room,Immediate load shedding review required
+FDR_003_HASH,Jayanagar,South Circle,679.69,87.14,2025-04-19 20:00:00,0,10,780.0,780.0,AMBER,O&M,"Monitor feeder, prepare contingency"
+FDR_004_HASH,Koramangala,South Circle,718.91,78.14,2025-04-19 18:00:00,0,1,920.0,920.0,AMBER,O&M,"Monitor feeder, prepare contingency"
+FDR_005_HASH,Whitefield,East Circle,635.17,69.04,2025-04-19 20:00:00,0,0,920.0,920.0,GREEN,O&M,Normal operations
+FDR_006_HASH,Peenya,North Circle,838.25,79.83,2025-04-20 12:00:00,0,7,1050.0,1050.0,AMBER,O&M,"Monitor feeder, prepare contingency"
+FDR_007_HASH,Electronic City,South Circle,839.82,79.98,2025-04-20 13:00:00,0,8,1050.0,1050.0,AMBER,O&M,"Monitor feeder, prepare contingency"
+FDR_008_HASH,Hebbal,North Circle,723.78,68.93,2025-04-19 20:00:00,0,0,1050.0,1050.0,GREEN,O&M,Normal operations
+FDR_009_HASH,Yelahanka,North Circle,712.26,67.83,2025-04-19 20:00:00,0,0,1050.0,1050.0,GREEN,O&M,Normal operations
+FDR_010_HASH,Banashankari,South Circle,538.89,69.09,2025-04-20 20:00:00,0,0,780.0,780.0,GREEN,O&M,Normal operations
+FDR_011_HASH,Rajajinagar,West Circle,435.61,67.02,2025-04-19 20:00:00,0,0,650.0,650.0,GREEN,O&M,Normal operations
+FDR_012_HASH,KR Puram,East Circle,570.02,73.08,2025-04-20 20:00:00,0,0,780.0,780.0,GREEN,O&M,Normal operations
+FDR_013_HASH,Indiranagar,East Circle,522.14,80.33,2025-04-19 18:00:00,0,1,650.0,650.0,AMBER,O&M,"Monitor feeder, prepare contingency"
+FDR_014_HASH,Domlur,East Circle,712.64,77.46,2025-04-19 18:00:00,0,0,920.0,920.0,GREEN,O&M,Normal operations
+FDR_015_HASH,Jayanagar,South Circle,548.3,70.29,2025-04-19 20:00:00,0,0,780.0,780.0,GREEN,O&M,Normal operations

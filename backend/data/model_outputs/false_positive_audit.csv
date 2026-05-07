@@ -1,0 +1,10 @@
+bucket,count,what_it_proves,percentage
+True Positive — Multi Signal,14,Multiple independent signals correctly identified theft,3.9
+True Positive — Single Signal,3,Single signal correctly caught for review,0.8
+True Positive — Watchlist,0,Cluster/statistical outlier flagged for monitoring,0.0
+True Negative — Normal,160,Normal meters correctly left undisturbed,44.4
+True Negative — Inactive Suppressed,20,Inactive meters correctly suppressed from alerts,5.6
+True Negative — GJ Low Usage Rescued,103,Low-income GJ households protected from false inspection,28.6
+True Negative — Solar/EV Context,21,Solar/EV context correctly prevented false flags,5.8
+False Positive,30,Cases requiring further review — system errs on caution,8.3
+False Negative,13,Suspicious cases missed — threshold review needed,3.6

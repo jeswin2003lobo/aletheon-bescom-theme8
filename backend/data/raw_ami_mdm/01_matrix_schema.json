@@ -1,0 +1,21 @@
+{
+  "description": "Compact full 120-day 15-minute consumer interval reads for all meters. Use scripts/load_full_interval_matrix.py for long-form export.",
+  "shape": [
+    360,
+    11520
+  ],
+  "quality_code_id": {
+    "RAW": 0,
+    "MISSING": 1,
+    "RAW_OUTAGE_ZERO": 2
+  },
+  "vee_status_id": {
+    "PASSED": 0,
+    "FAILED_MISSING": 1,
+    "PASSED_WITH_OUTAGE_CONTEXT": 2
+  },
+  "communication_status_id": {
+    "HEALTHY": 0,
+    "OFFLINE": 1
+  }
+}

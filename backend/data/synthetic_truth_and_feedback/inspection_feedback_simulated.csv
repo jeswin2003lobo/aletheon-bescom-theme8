@@ -1,0 +1,82 @@
+case_id,meter_id_hash,recommended_team,confidence_pct,inspection_outcome_simulated
+ALT-V4-0011,MTR_000102_HASH,Vigilance,92.4,synthetic_v4_feedback
+ALT-V4-0012,MTR_000009_HASH,Vigilance,91.8,synthetic_v4_feedback
+ALT-V4-0013,MTR_000123_HASH,Vigilance,91.2,synthetic_v4_feedback
+ALT-DEMO-001,MTR_000250_HASH,Vigilance,91.0,synthetic_v4_feedback
+ALT-V4-0015,MTR_000014_HASH,Vigilance,90.6,synthetic_v4_feedback
+ALT-V4-0016,MTR_000063_HASH,Vigilance,90.0,synthetic_v4_feedback
+ALT-V4-0017,MTR_000132_HASH,Vigilance,89.4,synthetic_v4_feedback
+ALT-V4-0018,MTR_000030_HASH,Vigilance,88.8,synthetic_v4_feedback
+ALT-V4-0019,MTR_000273_HASH,Vigilance,88.2,synthetic_v4_feedback
+ALT-V4-0020,MTR_000060_HASH,Vigilance,87.6,synthetic_v4_feedback
+ALT-V4-0021,MTR_000124_HASH,Vigilance,87.0,synthetic_v4_feedback
+ALT-V4-0022,MTR_000289_HASH,Vigilance,86.4,synthetic_v4_feedback
+ALT-V4-0023,MTR_000024_HASH,Vigilance,85.8,synthetic_v4_feedback
+ALT-V4-0024,MTR_000339_HASH,Vigilance,85.2,synthetic_v4_feedback
+ALT-V4-0025,MTR_000027_HASH,Vigilance,84.6,synthetic_v4_feedback
+ALT-V4-0026,MTR_000058_HASH,Vigilance Review,70.0,synthetic_v4_feedback
+ALT-V4-0027,MTR_000083_HASH,Vigilance Review,69.4,synthetic_v4_feedback
+ALT-V4-0028,MTR_000088_HASH,Vigilance Review,68.8,synthetic_v4_feedback
+ALT-V4-0029,MTR_000004_HASH,Vigilance Review,68.2,synthetic_v4_feedback
+ALT-V4-0030,MTR_000051_HASH,Vigilance Review,67.6,synthetic_v4_feedback
+ALT-V4-0031,MTR_000100_HASH,Vigilance Review,67.0,synthetic_v4_feedback
+ALT-V4-0032,MTR_000320_HASH,Vigilance Review,66.4,synthetic_v4_feedback
+ALT-V4-0033,MTR_000046_HASH,Vigilance Review,65.8,synthetic_v4_feedback
+ALT-V4-0034,MTR_000305_HASH,Vigilance Review,65.2,synthetic_v4_feedback
+ALT-V4-0035,MTR_000325_HASH,Vigilance Review,64.6,synthetic_v4_feedback
+ALT-V4-0036,MTR_000052_HASH,Watchlist,64.0,synthetic_v4_feedback
+ALT-V4-0037,MTR_000099_HASH,Watchlist,64.0,synthetic_v4_feedback
+ALT-V4-0038,MTR_000300_HASH,Vigilance Review,64.0,synthetic_v4_feedback
+ALT-V4-0039,MTR_000167_HASH,Vigilance Review,63.4,synthetic_v4_feedback
+ALT-V4-0040,MTR_000244_HASH,Vigilance Review,62.8,synthetic_v4_feedback
+ALT-V4-0041,MTR_000281_HASH,Vigilance Review,62.2,synthetic_v4_feedback
+ALT-V4-0042,MTR_000082_HASH,Vigilance Review,61.6,synthetic_v4_feedback
+ALT-V4-0043,MTR_000337_HASH,Vigilance Review,61.0,synthetic_v4_feedback
+ALT-V4-0044,MTR_000293_HASH,Vigilance Review,60.4,synthetic_v4_feedback
+ALT-V4-0045,MTR_000141_HASH,Vigilance Review,59.8,synthetic_v4_feedback
+ALT-V4-0046,MTR_000147_HASH,Vigilance Review,59.2,synthetic_v4_feedback
+ALT-V4-0047,MTR_000079_HASH,Vigilance Review,58.6,synthetic_v4_feedback
+ALT-V4-0048,MTR_000034_HASH,Metering,32.0,synthetic_v4_feedback
+ALT-V4-0049,MTR_000035_HASH,Metering,32.0,synthetic_v4_feedback
+ALT-V4-0050,MTR_000036_HASH,Metering,32.0,synthetic_v4_feedback
+ALT-V4-0051,MTR_000037_HASH,Metering,32.0,synthetic_v4_feedback
+ALT-V4-0052,MTR_000038_HASH,Metering,32.0,synthetic_v4_feedback
+ALT-V4-0053,MTR_000026_HASH,IT/AMI,18.0,synthetic_v4_feedback
+ALT-V4-0054,MTR_000028_HASH,IT/AMI,18.0,synthetic_v4_feedback
+ALT-V4-0055,MTR_000029_HASH,IT/AMI,18.0,synthetic_v4_feedback
+ALT-V4-0056,MTR_000031_HASH,IT/AMI,18.0,synthetic_v4_feedback
+ALT-V4-0057,MTR_000032_HASH,IT/AMI,18.0,synthetic_v4_feedback
+ALT-V4-0058,MTR_000033_HASH,IT/AMI,18.0,synthetic_v4_feedback
+ALT-V4-0059,MTR_000162_HASH,Watchlist,47.8,synthetic_v4_feedback
+ALT-V4-0060,MTR_000312_HASH,Watchlist,47.2,synthetic_v4_feedback
+ALT-V4-0061,MTR_000018_HASH,Watchlist,46.6,synthetic_v4_feedback
+ALT-V4-0062,MTR_000103_HASH,Watchlist,46.0,synthetic_v4_feedback
+ALT-V4-0063,MTR_000093_HASH,Watchlist,45.4,synthetic_v4_feedback
+ALT-V4-0064,MTR_000328_HASH,Watchlist,44.8,synthetic_v4_feedback
+ALT-V4-0065,MTR_000136_HASH,Watchlist,44.2,synthetic_v4_feedback
+ALT-V4-0066,MTR_000115_HASH,Watchlist,43.6,synthetic_v4_feedback
+ALT-V4-0067,MTR_000116_HASH,Watchlist,43.0,synthetic_v4_feedback
+ALT-V4-0068,MTR_000048_HASH,No field visit,4.0,synthetic_v4_feedback
+ALT-V4-0069,MTR_000059_HASH,No field visit,4.0,synthetic_v4_feedback
+ALT-V4-0070,MTR_000071_HASH,No field visit,4.0,synthetic_v4_feedback
+ALT-V4-0071,MTR_000114_HASH,No field visit,3.0,synthetic_v4_feedback
+ALT-V4-0072,MTR_000001_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0073,MTR_000002_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0074,MTR_000003_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0075,MTR_000005_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0076,MTR_000006_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0077,MTR_000007_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0078,MTR_000008_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0079,MTR_000010_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0080,MTR_000011_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0081,MTR_000012_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0082,MTR_000013_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0083,MTR_000015_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0084,MTR_000016_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0085,MTR_000017_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0086,MTR_000019_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0087,MTR_000020_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0088,MTR_000021_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0089,MTR_000022_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0090,MTR_000023_HASH,No field visit,2.0,synthetic_v4_feedback
+ALT-V4-0091,MTR_000025_HASH,No field visit,2.0,synthetic_v4_feedback

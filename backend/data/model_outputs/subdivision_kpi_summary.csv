@@ -1,0 +1,10 @@
+KPI,value,unit,vs_last_month,trend
+Total Meters Monitored,360.0,meters,N/A,stable
+Active Meters,340.0,meters,N/A,stable
+P1 Inspection-Ready Cases,25.0,cases,N/A,stable
+P2 Desk-Review Cases,5.0,cases,N/A,stable
+P3 Watchlist Cases,17.0,cases,N/A,stable
+False Positive Rate,63.8,%,N/A,stable
+Revenue at Risk (Monthly INR),41009.0,INR,N/A,stable
+Forecast WMAPE,3.57,%,N/A,stable
+Grid Stress Feeders (AMBER+RED),7.0,feeders,N/A,stable

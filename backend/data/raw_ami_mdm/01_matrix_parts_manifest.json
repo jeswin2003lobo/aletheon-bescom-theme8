@@ -1,0 +1,40 @@
+{
+  "dataset": "Aletheon BESCOM AMI Mirror v3",
+  "split": "full 120-day all-meter interval matrix split into 4 x 30-day parts",
+  "meter_count": 360,
+  "interval_minutes": 15,
+  "parts": [
+    {
+      "file": "aletheon_v3_full_interval_matrix_part01_days001_030.npz",
+      "global_interval_start_index": 0,
+      "global_interval_end_index_exclusive": 2880,
+      "days": "1-30",
+      "intervals": 2880,
+      "readings": 1036800
+    },
+    {
+      "file": "aletheon_v3_full_interval_matrix_part02_days031_060.npz",
+      "global_interval_start_index": 2880,
+      "global_interval_end_index_exclusive": 5760,
+      "days": "31-60",
+      "intervals": 2880,
+      "readings": 1036800
+    },
+    {
+      "file": "aletheon_v3_full_interval_matrix_part03_days061_090.npz",
+      "global_interval_start_index": 5760,
+      "global_interval_end_index_exclusive": 8640,
+      "days": "61-90",
+      "intervals": 2880,
+      "readings": 1036800
+    },
+    {
+      "file": "aletheon_v3_full_interval_matrix_part04_days091_120.npz",
+      "global_interval_start_index": 8640,
+      "global_interval_end_index_exclusive": 11520,
+      "days": "91-120",
+      "intervals": 2880,
+      "readings": 1036800
+    }
+  ]
+}

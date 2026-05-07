@@ -1,0 +1,8 @@
+signal_name,old_threshold,new_threshold,reason,changed_by,changed_at
+sig_peer_drift,N/A,peer_rank_drop_points >= 30,Initial calibration based on peer distribution,Aletheon v4.0 Pipeline,2026-05-06 00:44:47
+sig_sudden_drop,N/A,drop_first_to_last_pct >= 40,40% drop exceeds seasonal variation,Aletheon v4.0 Pipeline,2026-05-06 00:44:47
+sig_comm_failure,N/A,ping_success < 85% OR missed > 30,BESCOM SLA requires 90% uptime,Aletheon v4.0 Pipeline,2026-05-06 00:44:47
+sig_billing_cycle_drop,N/A,last_cycle_kwh < 50% of first_cycle_kwh (delta-based),Billing boundary analysis using per-cycle consumption deltas,Aletheon v4.0 Pipeline,2026-05-06 00:44:47
+sig_reading_plateau,N/A,plateau_max_run_intervals >= 40,40 consecutive identical readings (10 hours) indicates stuck meter,Aletheon v4.0 Pipeline,2026-05-06 00:44:47
+sig_pf_register,N/A,min_power_factor < 0.85 (weak/supporting signal),PF alone has high FP rate; used as supporting evidence only,Aletheon v4.0 Pipeline,2026-05-06 00:44:47
+isolation_forest,N/A,"contamination=0.12, n_estimators=200",Tuned to match 12% expected anomaly rate,Aletheon v4.0 Pipeline,2026-05-06 00:44:47

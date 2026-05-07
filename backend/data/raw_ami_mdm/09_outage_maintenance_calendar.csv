@@ -1,0 +1,31 @@
+event_id,locality,feeder_id_hash,dt_id_hash,outage_start_ts_ist,outage_end_ts_ist,outage_type,planned_flag,reason
+OUT_0001,Whitefield,FDR_005_HASH,DT_0080_HASH,2025-03-24 06:00:00,2025-03-24 10:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0002,Electronic City,FDR_007_HASH,DT_0112_HASH,2025-01-23 14:00:00,2025-01-23 18:00:00,UNPLANNED_DT_FAULT,0,synthetic outage for false-positive suppression demo
+OUT_0003,Peenya,FDR_006_HASH,DT_0036_HASH,2025-03-13 11:00:00,2025-03-13 14:00:00,FEEDER_TRIP,1,synthetic outage for false-positive suppression demo
+OUT_0004,Whitefield,FDR_005_HASH,DT_0035_HASH,2025-04-01 22:00:00,2025-04-01 23:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0005,KR Puram,FDR_012_HASH,DT_0102_HASH,2025-02-07 06:00:00,2025-02-07 09:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0006,Jayanagar,FDR_015_HASH,DT_0120_HASH,2025-04-16 22:00:00,2025-04-17 00:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0007,Electronic City,FDR_007_HASH,DT_0037_HASH,2025-04-14 22:00:00,2025-04-15 00:00:00,PLANNED_MAINTENANCE,1,synthetic outage for false-positive suppression demo
+OUT_0008,Domlur,FDR_014_HASH,DT_0104_HASH,2025-01-24 14:00:00,2025-01-24 17:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0009,Rajajinagar,FDR_011_HASH,DT_0011_HASH,2025-02-17 11:00:00,2025-02-17 13:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0010,Yelahanka,FDR_009_HASH,DT_0114_HASH,2025-02-07 09:00:00,2025-02-07 12:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0011,Electronic City,FDR_007_HASH,DT_0052_HASH,2025-03-04 06:00:00,2025-03-04 08:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0012,Peenya,FDR_006_HASH,DT_0006_HASH,2025-04-20 09:00:00,2025-04-20 11:00:00,PLANNED_MAINTENANCE,1,synthetic outage for false-positive suppression demo
+OUT_0013,Jayanagar,FDR_003_HASH,DT_0063_HASH,2025-03-26 14:00:00,2025-03-26 16:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0014,Domlur,FDR_002_HASH,DT_0077_HASH,2025-02-23 11:00:00,2025-02-23 12:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0015,Indiranagar,FDR_001_HASH,DT_0061_HASH,2025-03-30 14:00:00,2025-03-30 15:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0016,Domlur,FDR_014_HASH,DT_0044_HASH,2025-01-28 11:00:00,2025-01-28 13:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0017,Domlur,FDR_014_HASH,DT_0119_HASH,2025-02-16 14:00:00,2025-02-16 16:00:00,PLANNED_MAINTENANCE,1,synthetic outage for false-positive suppression demo
+OUT_0018,Indiranagar,FDR_001_HASH,DT_0046_HASH,2025-03-26 11:00:00,2025-03-26 13:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0019,Hebbal,FDR_008_HASH,DT_0053_HASH,2025-03-03 09:00:00,2025-03-03 11:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_0020,Yelahanka,FDR_009_HASH,DT_0009_HASH,2025-02-08 14:00:00,2025-02-08 17:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0021,Hebbal,FDR_008_HASH,DT_0038_HASH,2025-02-12 14:00:00,2025-02-12 17:00:00,PLANNED_MAINTENANCE,1,synthetic outage for false-positive suppression demo
+OUT_0022,Domlur,FDR_002_HASH,DT_0077_HASH,2025-01-23 11:00:00,2025-01-23 13:00:00,PLANNED_MAINTENANCE,1,synthetic outage for false-positive suppression demo
+OUT_0023,Jayanagar,FDR_015_HASH,DT_0045_HASH,2025-03-18 14:00:00,2025-03-18 15:00:00,FEEDER_TRIP,1,synthetic outage for false-positive suppression demo
+OUT_0024,Domlur,FDR_002_HASH,DT_0092_HASH,2025-01-07 06:00:00,2025-01-07 10:00:00,UNPLANNED_DT_FAULT,0,synthetic outage for false-positive suppression demo
+OUT_0025,Indiranagar,FDR_001_HASH,DT_0106_HASH,2025-02-24 14:00:00,2025-02-24 17:00:00,PLANNED_MAINTENANCE,0,synthetic outage for false-positive suppression demo
+OUT_0026,Banashankari,FDR_010_HASH,DT_0040_HASH,2025-01-08 11:00:00,2025-01-08 13:00:00,UNPLANNED_DT_FAULT,1,synthetic outage for false-positive suppression demo
+OUT_FDR_001,Rajajinagar,FDR_011_HASH,,2025-02-26 18:00:00,2025-02-26 19:00:00,FEEDER_TRIP,0,synthetic feeder trip for dashboard demo
+OUT_FDR_002,Rajajinagar,FDR_011_HASH,,2025-04-06 21:00:00,2025-04-06 23:00:00,FEEDER_TRIP,0,synthetic feeder trip for dashboard demo
+OUT_FDR_003,Hebbal,FDR_008_HASH,,2025-04-18 20:00:00,2025-04-18 21:30:00,FEEDER_TRIP,0,synthetic feeder trip for dashboard demo
+OUT_FDR_004,Peenya,FDR_006_HASH,,2025-03-24 18:00:00,2025-03-24 19:00:00,FEEDER_TRIP,0,synthetic feeder trip for dashboard demo

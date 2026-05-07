@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  aletheon-backend:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./aletheon_feedback.db:/app/aletheon_feedback.db

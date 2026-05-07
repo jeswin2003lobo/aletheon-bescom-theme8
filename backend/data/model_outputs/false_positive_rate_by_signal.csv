@@ -1,0 +1,9 @@
+signal_name,total_triggered,true_positive_count,false_positive_count,false_positive_rate_pct
+sig_comm_failure,10,0,10,100.0
+sig_reading_plateau,31,1,30,96.8
+sig_peer_drift,11,10,1,9.1
+sig_sudden_drop,2,2,0,0.0
+sig_billing_cycle_drop,16,15,1,6.2
+sig_after_hours_commercial,11,1,10,90.9
+sig_pf_register,124,12,112,90.3
+sig_tamper_event,6,6,0,0.0

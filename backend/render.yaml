@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: aletheon-backend
+    runtime: docker
+    plan: free
+    region: oregon
+    envVars:
+      - key: DATA_BASE_PATH
+        value: ./data
+      - key: BACKEND_HOST
+        value: 0.0.0.0
+      - key: BACKEND_PORT
+        value: 8000
+      - key: FEEDBACK_DB_PATH
+        value: ./aletheon_feedback.db
+      - key: KANNADA_CACHE_PATH
+        value: ./data/kannada_cache.json
+      - key: TWILIO_ACCOUNT_SID
+        sync: false
+      - key: TWILIO_AUTH_TOKEN
+        sync: false
+      - key: TWILIO_PHONE_NUMBER
+        sync: false
+      - key: ALERT_PHONE_NUMBERS
+        sync: false
+      - key: CALENDARIFIC_API_KEY
+        sync: false
+      - key: CALENDARIFIC_COUNTRY
+        value: IN
+      - key: CALENDARIFIC_STATE
+        value: in-ka
+      - key: CALENDARIFIC_YEAR
+        value: "2025"

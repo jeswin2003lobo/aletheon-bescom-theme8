@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build
+frontend/build/
+dist/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Deployment
+.vercel/
+frontend/.vercel/
+
+# Data (large binary matrix parts)
+backend/data/raw_ami_mdm/matrix_parts/
+
+# Database
+*.db
+backend/aletheon_feedback.db
+
+# Secrets
+render_env_vars.txt
+
+# Misc
+npm-debug.log*
+yarn-error.log*
