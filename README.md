@@ -21,18 +21,18 @@
 <tr>
 <td align="center" width="50%">
 <strong>Frontend Dashboard</strong><br>
-<a href="https://frontend-phi-neon-div55goz4n.vercel.app">frontend-phi-neon-div55goz4n.vercel.app</a><br>
+<a href="https://aletheon.vercel.app">aletheon.vercel.app</a><br>
 <sub>React + Tailwind CSS on Vercel</sub>
 </td>
 <td align="center" width="50%">
 <strong>Backend API</strong><br>
-<a href="https://aletheon-bescom-theme8.onrender.com">aletheon-bescom-theme8.onrender.com</a><br>
-<sub>FastAPI + 39 endpoints on Render</sub>
+<a href="https://aletheon-bescom-theme8-production.up.railway.app">aletheon-bescom-theme8-production.up.railway.app</a><br>
+<sub>FastAPI + 39 endpoints on Railway</sub>
 </td>
 </tr>
 </table>
 
-> **Note:** Backend is on Render free tier — first request may take ~30s for cold start.
+> **Note:** Backend is on Railway — always-on, no cold start.
 
 ---
 
@@ -289,7 +289,7 @@ python main.py
 ```bash
 cd frontend
 npm install
-REACT_APP_BACKEND_URL=http://localhost:8000 npm start
+REACT_APP_BACKEND_URL=https://aletheon-bescom-theme8-production.up.railway.app npm start
 # Dashboard at http://localhost:3000
 ```
 
